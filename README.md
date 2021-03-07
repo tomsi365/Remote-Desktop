@@ -6,11 +6,9 @@ I developed a desktop project , <br/>
 By using : Java (Swing , UDP , Thread) , Intellij . <br/>
 <br/>
 Execution Instructions : <br/>
-<br/>
 Server : <br/>
 Assist the client , By control his mouse and see his screen . <br/>
 Put client's IP . <br/>
-<br/> <br/>
 Client : <br/>
 got assisted by server , By give access to his mouse and screen . <br/>
 Put servers's IP . <br/>
