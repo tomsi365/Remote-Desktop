@@ -14,5 +14,5 @@ Got assisted by server , By give access to his mouse and screen . <br/>
 Put servers's IP . <br/>
 <br/>
 Direct Execution : <br/>
-Server : 'Server.jar' . <br/>
-Client : https://github.com/tomsi365/Remote-Desktop/raw/master/Client.jar . <br/>
+Server : https://github.com/tomsi365/Remote-Desktop/raw/master/Server.jar <br/>
+Client : https://github.com/tomsi365/Remote-Desktop/raw/master/Client.jar <br/>
