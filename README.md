@@ -10,7 +10,7 @@ Server : <br/>
 Assist the client , By control his mouse and see his screen . <br/>
 Put client's IP . <br/>
 Client : <br/>
-got assisted by server , By give access to his mouse and screen . <br/>
+Got assisted by server , By give access to his mouse and screen . <br/>
 Put servers's IP . <br/>
 <br/>
 Direct Execution : <br/>
