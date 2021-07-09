@@ -15,4 +15,4 @@ Put servers's IP . <br/>
 <br/>
 Direct Execution : <br/>
 Server : 'Server.jar' . <br/>
-Client : 'Client.jar' . <br/>
+Client : https://github.com/tomsi365/Remote-Desktop/raw/master/Client.jar . <br/>
